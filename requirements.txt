@@ -5,3 +5,4 @@ scikit-learn
 shap
 matplotlib
 xgboost
+plotly
